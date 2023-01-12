@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://quine.sh/profile/paulamkt"><img src="https://stats.quine.sh/paulamkt/github" alt="paulamkt's GitHub stats" width="840px"></a>
 <!--
 **paugmnoz/paugmnoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
